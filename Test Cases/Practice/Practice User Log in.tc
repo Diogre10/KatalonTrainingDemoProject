@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User Login</description>
+   <name>Practice User Log in</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b4f991d7-2800-4e98-a259-8731ec9c510a</testCaseGuid>
+</TestCaseEntity>
